@@ -2,21 +2,19 @@ Sorting Algorithms in Java
 
 Program Description
 
-Kini nga Java program nagpakita kung giunsa paghan-ay ang mga number gamit ang tulo ka sorting algorithms:
-Ang Bubble Sort, Selection Sort, og Insertion Sort.
+Kini nga Java program nagpakita kung giunsa paghan-ay ang mga number gamit ang tulo ka sorting algorithms: Ang Bubble Sort, Selection Sort, og Insertion Sort.
 
-    kani nga program kay naggamit og array nga naay napulo ka wala pa mahan-ay nga mga number ,Ang matag sorting algorithm adunay kaugalingong method ug naggamit og
-    separate copy sa original array.,Ang resulta ipakita sa ascending order, gikan sa pinakagamay hangtod sa pinakadako nga numero.
+Ang kani na program kay naggamit og napulo ka wala pa na han-ay nga mga number ang matag sorting algorithm kay naay kaugalingong method og naggamit og separate copy sa original nga array.,ang resulta dayon kay ipakita sa ascending order ,gikan sa pinakagamay hangtud padulong sa pinaka dako nga number
 
-1. Bubble Sort
+Bubble Sort
     Ang Bubble Sort kay gina kumpara niya ang duha ka magtapad nga number.
 Kung ang unang number mas dako kaysa ikaduha, ilang ibaylo ang ilang position, Balik-balikon balik balikon dayon hangtod mahan-ay ang tanan nga number.
 
-2. Selection Sort
+Selection Sort
     Ang Selection Sort mangita sa pinakagamay nga number sa array.pagmakita na dayon kay ibutang siya sa unang position,
 Dayon mangita na pud sa sunod nga pinakagamay nga numero hangtod mahuman ang paghan-ay.
 
-3. Insertion Sort
+Insertion Sort 
     Ang Insertion Sort parehas sa paghan-ay og playing cards.
 Magkuha kini og usa ka number ug ibutang sa sakto nga position pananglitan ang 1,5,7,2,4,3 kwaon ang 2 eh drag dayon siya padulong sa 1 eh abay sila duha balik balik ra 
  kung asa siya taliwala sa mga number nga nahuman na og han-ay.
