@@ -5,9 +5,8 @@ Program Description
 Kini nga Java program nagpakita kung giunsa paghan-ay ang mga number gamit ang tulo ka sorting algorithms:
 Ang Bubble Sort, Selection Sort, og Insertion Sort.
 
-    Ang program naggamit og array nga naay napulo ka wala pa mahan-ay nga mga number ,
-Ang matag sorting algorithm adunay kaugalingong method ug naggamit og separate copy sa original array.,
-Ang resulta ipakita sa ascending order, gikan sa pinakagamay hangtod sa pinakadako nga numero.
+    kani nga program kay naggamit og array nga naay napulo ka wala pa mahan-ay nga mga number ,Ang matag sorting algorithm adunay kaugalingong method ug naggamit og
+    separate copy sa original array.,Ang resulta ipakita sa ascending order, gikan sa pinakagamay hangtod sa pinakadako nga numero.
 
 1. Bubble Sort
     Ang Bubble Sort kay gina kumpara niya ang duha ka magtapad nga number.
